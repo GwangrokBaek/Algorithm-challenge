@@ -1,3 +1,10 @@
+/*
+* Author : Kwangrok Baek (zester926@gmail.com)
+* memory, time : 2104 KB, 0ms
+* URL : https://www.acmicpc.net/problem/2178
+* type : bfs
+*/
+
 #include <iostream>
 #include <queue>
 
