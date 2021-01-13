@@ -21,10 +21,10 @@ bool dfs(int y, int x) {
     check[y][x] = true;
     
     for (int i = 0; i < 4; i++) {
-        int next_x = x + dx[i]; // 동, 서, 남, 북으로 1칸씩 이동
+        int next_x = x + dx[i]; // 3. 동, 서, 남, 북으로 1칸씩 이동
         int next_y = y + dy[i];
 
-        if (next_x >= 0 && next_y >= 0 && next_x < m && next_y < n && a[next_y][next_x]) // 3. 인근 지역에 배추 있을 경우, 해당 지역 방문 처리
+        if (next_x >= 0 && next_y >= 0 && next_x < m && next_y < n && a[next_y][next_x]) // 4. 인근 지역에 배추 있을 경우, 해당 지역 방문 처리
         dfs(next_y, next_x);
     }
     return true;
