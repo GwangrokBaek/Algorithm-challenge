@@ -18,6 +18,6 @@
 
 * 이 Repo에는 코드만 업로드하며, 풀이 과정은 <a href="https://phil-baek.tistory.com/category/%EC%95%8C%EA%B3%A0%EC%B1%8C%20%3A%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%B1%8C%EB%A6%B0%EC%A7%80">블로그</a>에서 확인하실 수 있습니다.
 
-## Now : Unrated (2021-01-12)
+## Now : Unrated (2021-01-18)
 
-![image](https://user-images.githubusercontent.com/41013930/104315490-606bf600-551e-11eb-95ef-04f92dd16f28.png)
+![image](https://user-images.githubusercontent.com/41013930/104925779-9b6c9e80-59e2-11eb-9f59-b70e37533a89.png)
