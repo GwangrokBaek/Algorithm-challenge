@@ -18,6 +18,10 @@
 
 * 이 Repo에는 코드만 업로드하며, 풀이 과정은 <a href="https://phil-baek.tistory.com/category/%EC%95%8C%EA%B3%A0%EC%B1%8C%20%3A%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%B1%8C%EB%A6%B0%EC%A7%80">블로그</a>에서 확인하실 수 있습니다.
 
-## Now : Bronze (2021-02-07)
+## History
+* [2021-02-22] Solved.ac Class1 금장
+* [2021-02-22] Solved.ac Silver 
 
-![image](https://user-images.githubusercontent.com/41013930/107124153-68347580-68e5-11eb-871a-a65e515b65fe.png)
+## Now : Silver (2021-02-22)
+
+![image](https://user-images.githubusercontent.com/41013930/108681255-4a485100-7532-11eb-8edf-a49fe476570e.png)
