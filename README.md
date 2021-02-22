@@ -19,6 +19,7 @@
 * 이 Repo에는 코드만 업로드하며, 풀이 과정은 <a href="https://phil-baek.tistory.com/category/%EC%95%8C%EA%B3%A0%EC%B1%8C%20%3A%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%B1%8C%EB%A6%B0%EC%A7%80">블로그</a>에서 확인하실 수 있습니다.
 
 ## History
+* [2021-02-20] CodeUp 기초 100제 완료
 * [2021-02-22] Solved.ac Class1 금장
 * [2021-02-22] Solved.ac Silver 
 
