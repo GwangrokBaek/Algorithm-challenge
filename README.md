@@ -23,7 +23,3 @@
 * [2021-02-22] Solved.ac Class1 금장
 * [2021-02-22] Solved.ac Silver 
 * [2021-04-16] 프로그래머스 월간 코드 챌린지 시즌 2 1025등 / 약 6000명
-
-## Now : Silver (2021-02-22)
-
-![image](https://user-images.githubusercontent.com/41013930/108681255-4a485100-7532-11eb-8edf-a49fe476570e.png)
