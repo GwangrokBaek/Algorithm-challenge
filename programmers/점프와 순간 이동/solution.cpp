@@ -1,4 +1,4 @@
-# https://school.programmers.co.kr/learn/courses/30/lessons/12980
+// https://school.programmers.co.kr/learn/courses/30/lessons/12980
 
 using namespace std;
 
